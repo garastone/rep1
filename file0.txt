@@ -1,1 +1,2 @@
 echo "Hello world!"
+echo "Did you know that the equivalent of the word soup in Russian is soup"
